@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+<title>Barra de progreso</title>
+<link rel="stylesheet" type="text/css" href="ASSETS/CSS/style.css">
+</head>
+<body>
+
+
+<div class="circle_box">
+	<div>
+		<svg>
+			<circle cx="100" cy="100" r="95"/>
+		  <circle cx="100" cy="100" r="95"/>
+		</svg>
+		<span>80%</span>
+	</div>	
+	<strong>Web Development</strong>
+</div>
+<div class="circle_box">
+	<div>
+		<svg>
+			<circle cx="100" cy="100" r="95"/>
+		  <circle cx="100" cy="100" r="95"/>
+		</svg>
+		<span>60%</span>
+	</div>	
+	<strong>App Development</strong>
+</div>
+<div class="circle_box">
+	<div>
+		<svg>
+			<circle cx="100" cy="100" r="95"/>
+		  <circle cx="100" cy="100" r="95"/>
+		</svg>
+		<span>50%</span>
+	</div>	
+	<strong>Digital Marketing</strong>
+</div>
+
+
+
+</body>
+</html>
+
+
+
